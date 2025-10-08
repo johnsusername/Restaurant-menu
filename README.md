@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<img src="https://share.google/images/eZbFQx7hQ6Xbi35D4" 
+<img src="https://img.ccnull.de/1095000/preview/1098790_2819284f0f62ae3b7aa39d93153f82e8.jpg" 
 alt="glazed doughnut" 
 width="200px" height="200px"/>
 
