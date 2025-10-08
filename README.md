@@ -1,12 +1,16 @@
 # Restaurant-menu
 <!DOCTYPE html>
 <html lang="en-US">
-  <body>
-    <div style="width:400; hieght:550; background-color: gold; padding:20; margin:20; border:20;">
+  <th>
+    Monte's doughnuts
+  </th>
+ <body>
+  <div style="width:400; hieght:550; background-color: blue; padding:20; margin:20; border-width: thick; border-color:#222E50;">
     <ol>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
+      <li>extra glaze special</li>
+      <li>doughnuts</li>
+      <li>chocolate chip cookies</li>
+      <li>gum</li>
     </ol>
 </div>
   </body>
